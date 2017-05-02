@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# v1nce's - ReactJS Tic-Tac-Toe
+# ReactJS Tic-Tac-Toe
 
 ## description
 
-This is my first ReactJS project. Please ignore the lack of automated tests and code standards!
-
-[Live Demo](http://www.v1nce.com.br/tic-tac-toe)
-
+This is my first ReactJS project.
 
 ## How to run
 
